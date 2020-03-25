@@ -15,6 +15,8 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
         
         print("ggg")
+        print("gggggggg")
+        print("깃허브 연동중.")
     }
 
 
